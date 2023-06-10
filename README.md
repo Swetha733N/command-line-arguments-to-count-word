@@ -17,6 +17,7 @@ Use split function to to separate the file content into words or strings
 Count the length of the words using len
 ### Step 6:
 Print the number of words
+
 ## PROGRAM:
 ```
 Program for getting the word count from the contents of a file using command line arguments
